@@ -1,4 +1,19 @@
-/* Created by: Mr. Coxall
+/* Created by: Osamah Hasan
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
+
+body {
+  background-color: powderblue;
+}
+
+h1 {
+  background-color: rgb(181, 240, 61);
+  color: hsl(0, 96%, 37%);
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+
+background-color: bisque;
